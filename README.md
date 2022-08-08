@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=&fontSize=90" />
+
