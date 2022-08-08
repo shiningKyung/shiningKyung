@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
-  I'm Nakyung Yoo Front-End Devloper✨
+  I'm Nakyung Yoo, Front-End Devloper✨
 </p>
