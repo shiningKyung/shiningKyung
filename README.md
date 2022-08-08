@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=&fontSize=90" />
 
