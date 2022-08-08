@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </div>
