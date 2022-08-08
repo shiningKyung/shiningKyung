@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nakyung%Yoo&fontSize=90" />
 
-<h3 align="center">Hi there 👋</h3>
+<h3 align="center">👋Hi there</h3>
 <p align="center">
   I'm Nakyung Yoo, Front-End Devloper✨
 </p>
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">🛠Tech Stack🛠</h3>
