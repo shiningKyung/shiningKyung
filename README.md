@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nakyung%Yoo&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nakyung%You&fontSize=90" />
 
 <h3 align="center">👋Hi there</h3>
 <p align="center">
