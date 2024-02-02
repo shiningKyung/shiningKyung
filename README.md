@@ -15,12 +15,31 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nakyung%You&fontSize=90" /> -->
-
 <h2>안녕하세요, 프론트엔드 개발자 유나경 입니다! 👋</h2>
 <p>
-  I'm Nakyung You, Front-End Devloper
+  
 </p>
-<br><br>
+<br>
+
+<h2>Project</h2>
+
+Web application - [앵모아](https://github.com/AngMoa) : 반려동물 앵무새 커뮤니티 제공 서비스 "앵모아" (2024.01 ~ 현재)<br/>
+Web application - [TeamMate](https://github.com/100backfro-improvement/teammate) : 팀원들과의 협업 일정과 문서 관리를 도와주는 서비스 "TeamMate" (2023.11 ~ 2024.01)
+
+<br/>
+
+<h2>Blog</h2>
+<p>
+  티스토리
+</p>
+<br>
+
+<!--  <h2>Education</h2>
+<p>
+  제로베이스 16기 프론트엔드 스쿨 (2023.06 ~ 2024.01)<br />
+</p>
+ -->
+ 
 <!--
 <h3 align="center">🛠Tech Stack🛠</h3>
 <div align="center">
