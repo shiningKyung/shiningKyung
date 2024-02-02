@@ -11,16 +11,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...👋
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nakyung%You&fontSize=90" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nakyung%You&fontSize=90" /> -->
 
-<h3 align="center">👋Hi there</h3>
-<p align="center">
+<h2>안녕하세요, 프론트엔드 개발자 유나경 입니다! 👋</h2>
+<p>
   I'm Nakyung You, Front-End Devloper
 </p>
 <br><br>
+<!--
 <h3 align="center">🛠Tech Stack🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -29,13 +30,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
+-->
 <br><br>
+
+<!--
 <h3 align="center">✨Me✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
-
+-->
 <br>
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=&fontSize=90" />
-
+-->
